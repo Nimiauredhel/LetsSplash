@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Boat
+  - Cone
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Waves
+  - Boat
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Water
+    uniqueID: 3681797167
+    locked: 0
+  - name: Waves
+    uniqueID: 3677445313
+    locked: 0
+  - name: Ground
+    uniqueID: 1745081895
+    locked: 0
+  - name: GoalBack
+    uniqueID: 2631085155
+    locked: 0
+  - name: Boats
+    uniqueID: 4088589013
+    locked: 0
+  - name: Goal
+    uniqueID: 2430287567
+    locked: 0
